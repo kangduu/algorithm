@@ -1,10 +1,8 @@
 # Data Structures and Algorithm Analysis
 
-![Data Structures and Algorithm Analysis](\map.png)
+![](map.png)
 
 [TOC]
-
-
 
 ## 数学基础
 
